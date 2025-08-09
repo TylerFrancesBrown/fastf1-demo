@@ -4,8 +4,8 @@ import fastf1
 fastf1.Cache.enable_cache('cache')
 
 YEAR = 2025
-WEEKEND = 'Monaco'
-SESSION = 'Q'
+WEEKEND = 'Montreal'
+SESSION = 'R'
 
 # Example: load qualifying session for YEAR LOCATION SESSION
 session = fastf1.get_session(YEAR, WEEKEND, SESSION)
