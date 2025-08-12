@@ -4,7 +4,7 @@ __pycache__/
 venv/
 .env
 .cache/
-cache/        # FastF1 cache folder
+cache/
 *.log
 
 # Editor
