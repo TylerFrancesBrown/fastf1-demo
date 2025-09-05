@@ -43,4 +43,4 @@ def main(YEAR, WEEKEND, SESSION_CODE):
     print_leaderboard(session_fastest_laps)
 
 if __name__ == '__main__':
-    main(2006, 'Monaco', 'Q')
+    main(2022, 'Bahrain', 'Q')
